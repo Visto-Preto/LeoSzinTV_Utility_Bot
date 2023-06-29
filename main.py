@@ -11,41 +11,41 @@ current_id = 'mw-customcollapsible-current' #id do element div (current stock)
 last_id = 'mw-customcollapsible-last' #id do elemento div (last stock)
 before_last_id = 'mw-customcollapsible-beforelast' #id do element div (before last stock)
 
-fruits = {  "kilo":":kilo:    Kilo - $ 5.000 - :robux: 50\n",
-            "spin":":spin:    Spin - $ 7.500 - :robux: 75\n",
-            "chop":":chop:    Chop - $ 30.000 - :robux: 100\n",
-            "spring":":spring:    Spring - $ 60.000 - :robux: 180\n",
-            "bomb":":bomb_fruit:    Bomb - $ 80.000 - :robux: 220\n",
-            "smoke":":smoke:    Smoke - $ 100.000 - :robux: 250\n",
-            "spike":":spike:    Spike - $ 180.000 - :robux: 380\n",
-            "flame":":flame_fruit:    Flame - $ 250.000 - :robux: 550\n",
-            "falcon":":falcon:    Falcon - $ 300.000 - :robux: 650\n",
-            "ice":":ice:    Ice - $ 350.000 - :robux: 750\n",
-            "sand":":sand:    Sand - $ 420.000 - :robux: 850\n",
-            "dark":":dark:    Dark - $ 500.000 - :robux: 950\n",
-            "revive":":revive:    Revive - $ 550.000 - :robux: 975\n",
-            ":diamond":":diamond:    Diamond - $ 600.000 - :robux: 1,000\n",
-            "light":":light:    Light - $ 650.000 - :robux: 1,100\n",
-            "rubber":":rubber:    Rubber - $ 750.000 - :robux: 1,200\n",
-            "barrier":":barrier:    Barrier - $ 800.000:robux: 1,250\n",
-            "magma":":magma:    Magma - $ 850.000 - :robux: 1,300\n",
-            "quake":":quake:    Quake - $ 1,000.000 - :robux: 1,500\n",
-            "buddha":":buddha:    Buddha - $ 1.200,000 - :robux: 1,650\n",
-            "love":":love:    Love - $ 1.300,000 - :robux: 1,700\n",
-            "spider":":spider_fruit:    Spider - $ 1.500,000 - :robux: 1,800\n",
-            "phoenix":":phoenix:    Phoenix - $ 1.800,000 - :robux: 2,000\n",
-            "portal":":portal:    Portal - $ 1.900,000 - :robux: 2,000\n",
-            "rumble":":rumble:    Rumble - $ 2.100,000 - :robux: 2,100\n",
-            "paw":":paw:    Paw - $ 2.300,000 - :robux: 2,200\n",
-            "blizzard":":blizzard:    Blizzard - $ 2.400,000 - :robux: 2,250\n",
-            "gravity":":gravity:    Gravity - $ 2.500,000 - :robux: 2,300\n",
-            "dough":":dough:    Dough - $ 2.800,000 - :robux: 2,400\n",
-            "shadow":":shadow:    Shadow - $ 2.900,000 - :robux: 2,425\n",
-            "venom":":venom:    Venom - $ 3.000,000 - :robux: 2,450\n",
-            "control":":control:    Control - $ 3.200,000 - :robux: 2,500\n",
-            "spirit":":spirit:    Spirit - $ 3.400,000 - :robux: 2,550\n",
-            "dragon":":dragon_fruit:    Dragon - $ 3.500,000 - :robux: 2,600\n",
-            "leopard":":leopard_fruit:    Leopard - $ 5.000,000 - :robux: 3,000\n" 
+fruits = {  "kilo":"<:kilo:1109562877746102292>    **Kilo** - $ 5.000 - <:robux:1123951146659225641> 50\n",
+            "spin":"<:spin:1109562889066532885>    **Spin** - $ 7.500 - <:robux:1123951146659225641> 75\n",
+            "chop":"<:chop:1109562863124742164>    **Chop** - $ 30.000 - <:robux:1123951146659225641> 100\n",
+            "spring":"<:spring:1109562890932985958>    **Spring** - $ 60.000 - <:robux:1123951146659225641> 180\n",
+            "bomb":"<:bomb_fruit:1109562860767551529>    **Bomb** - $ 80.000 - <:robux:1123951146659225641> 220\n",
+            "smoke":"<:smoke:1109565821782597782>    **Smoke** - $ 100.000 - <:robux:1123951146659225641> 250\n",
+            "spike":"<:spike:1109540994975797269>    **Spike** - $ 180.000 - <:robux:1123951146659225641> 380\n",
+            "flame":"<:flame_fruit:1109562870880014426>    **Flame** - $ 250.000 - <:robux:1123951146659225641> 550\n",
+            "falcon":"<:falcon:1109562867742687305>    **Falcon** - $ 300.000 - <:robux:1123951146659225641> 650\n",
+            "ice":"<:ice:1109562875938353182>    **Ice** - $ 350.000 - <:robux:1123951146659225641> 750\n",
+            "sand":"<:sand:1109562884335341618>    **Sand** - $ 420.000 - <:robux:1123951146659225641> 850\n",
+            "dark":"<:dark:1109562865813307463>    **Dark** - $ 500.000 - <:robux:1123951146659225641> 950\n",
+            "revive":"<:revive:1109562881369968703>    **Revive** - $ 550.000 - <:robux:1123951146659225641> 975\n",
+            ":diamond":"<:diamond:1109541792346546206>    **Diamond** - $ 600.000 - <:robux:1123951146659225641> 1.000\n",
+            "light":"<:light:1109541790744313866>    **Light** - $ 650.000 - <:robux:1123951146659225641> 1.100\n",
+            "rubber":"<:rubber:1109541787825086525>    **Rubber** - $ 750.000 - <:robux:1123951146659225641> 1.200\n",
+            "barrier":"<:barrier:1109541004551405700>    **Barrier** - $ 800.000 - <:robux:1123951146659225641> 1.250\n",
+            "magma":"<:magma:1109541007814570045>    **Magma** - $ 850.000 - <:robux:1123951146659225641> 1.300\n",
+            "quake":"<:quake:1109540999711170631>    **Quake** - $ 1,000.000 - <:robux:1123951146659225641> 1.500\n",
+            "buddha":"<:buddha:1109540997903437964>    **Buddha** - $ 1.200,000 - <:robux:1123951146659225641> 1.650\n",
+            "love":"<:love:1109541010985463818>    **Love** - $ 1.300,000 - <:robux:1123951146659225641> 1.700\n",
+            "spider":"<:spider_fruit:1109562886226968576>    **Spider** - $ 1.500,000 - <:robux:1123951146659225641> 1.800\n",
+            "phoenix":"<:phoenix:1109540993486827550>    **Phoenix** - $ 1.800,000 - <:robux:1123951146659225641> 2.000\n",
+            "portal":"<:portal:1109541002785591417>    **Portal** - $ 1.900,000 - <:robux:1123951146659225641> 2.000\n",
+            "rumble":"<:rumble:1109540990735360042>    **Rumble** - $ 2.100,000 - <:robux:1123951146659225641> 2.100\n",
+            "paw":"<:paw:1109540989099577554>    **Paw** - $ 2.300,000 - <:robux:1123951146659225641> 2.200\n",
+            "blizzard":"<:blizzard:1109540986167758898>    **Blizzard** - $ 2.400,000 - <:robux:1123951146659225641> 2.250\n",
+            "gravity":"<:gravity:1109541050059608174>    **Gravity** - $ 2.500,000 - <:robux:1123951146659225641> 2.300\n",
+            "dough":"<:dough:1109541017415336036>    **Dough** - $ 2.800,000 - <:robux:1123951146659225641> 2.400\n",
+            "shadow":"<:shadow:1109541020607189104>    **Shadow** - $ 2.900,000 - <:robux:1123951146659225641> 2.425\n",
+            "venom":"<:venom:1109541022561747026>    **Venom** - $ 3.000,000 - <:robux:1123951146659225641> 2.450\n",
+            "control":"<:control:1109541025447424144>    **Control** - $ 3.200,000 - <:robux:1123951146659225641> 2.500\n",
+            "spirit":"<:spirit:1109541795395817602>    **Spirit** - $ 3.400,000 - <:robux:1123951146659225641> 2.550\n",
+            "dragon":"<:dragon_fruit:1109541030610604144>    **Dragon** - $ 3.500,000 - <:robux:1123951146659225641> 2.600\n",
+            "leopard":"<:leopard_fruit:1109541033898954892>    **Leopard** - $ 5.000,000 - <:robux:1123951146659225641> 3.000\n" 
             }
 
 def format_fruit(x):
@@ -125,11 +125,16 @@ async def towers(interaction):
     for lsf in last_stock:
         last_stock_f = last_stock_f + fruits[lsf]
 
-    #https://media.discordapp.net/attachments/1120403497591001138/1120403721550057563/logo.png
+    #
+
     em = discord.Embed(colour=0x0025ff, color=0x0025ff, title='Blox Fruits "Stock"', type='rich', url=None, description='Estoque do Blox Fruit Dealer', timestamp=None)
+    #em.set_author(name='LeoSzinTV', url=None, icon_url='https://media.discordapp.net/attachments/1120403497591001138/1120403721550057563/logo.png')
     em.add_field(name=f'Estoque atual  `{func_h()}`', value="{}".format(current_stock_f), inline=False)
     em.add_field(name='Último estoque', value=f"{last_stock_f}", inline=False)
+    #em.set_image(url='https://static.wikia.nocookie.net/roblox-blox-piece/images/5/50/Flame.GIF/revision/latest?cb=20220919063135')
     em.set_footer(text='© LeoSzinTV Community - Todos os direitos reservados', icon_url=None)
+
     await interaction.response.send_message(embed=em)
+
 
 client.run(token)
